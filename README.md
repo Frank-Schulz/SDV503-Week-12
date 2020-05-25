@@ -18,7 +18,7 @@ for Hash Table Collisions, where multiple values get assigned to the same hash.
 
 
 ### Core Hash Table Functionality
-![alt text](https://gblobscdn.gitbook.com/assets%2F-M0tzdQoYXoPhCiqfqxs%2F-M7Y_5joCQkAp5eT8QA3%2F-M7YbWY9D-3kXbAetNJ5%2FScreen%20Shot%202020-05-18%20at%205.10.45%20AM.png "Pseudocode showing the core of the Hash Table")
+<img src="https://gblobscdn.gitbook.com/assets%2F-M0tzdQoYXoPhCiqfqxs%2F-M7Y_5joCQkAp5eT8QA3%2F-M7YbWY9D-3kXbAetNJ5%2FScreen%20Shot%202020-05-18%20at%205.10.45%20AM.png" width=75% />
 
  * It returns null if we try to find a key which does not exist.
  * It is slower than dictionary because it requires boxing and unboxing.
